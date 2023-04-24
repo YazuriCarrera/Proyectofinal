@@ -1,7 +1,6 @@
 body{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
 }
 
 header{
@@ -99,6 +98,21 @@ th , td{
 
 .bordetabla{
     border-bottom: 1px solid transparent;
+}
+
+.shop{
+    width: 1034px;
+    margin-top: 100px;
+    margin:auto;
+    font-weight: 100;
+    letter-spacing: 4px;
+    color:brown;
+}
+
+.playera{
+    width: 200px;
+    padding-bottom: 10px;
+    margin:auto;
 }
 
 footer{
