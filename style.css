@@ -1,0 +1,119 @@
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+header{
+    width: 1034px;
+    height: 305px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-image:url("https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg");
+    background-size: cover;
+    color: white;
+}
+
+nav{
+    height: 30px;
+    border-bottom: 1.5px solid rgb(255, 255, 255, .5);
+    padding-top: 10px;
+}
+
+.enlaces{
+    padding: 50px;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+
+h1{
+    margin:0px;
+    font-size: 4.5em;
+    font-weight:larger;
+}
+
+.nuevoalbum{
+    padding: 7px 25px 7px 25px;
+    border: 2px  solid white;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255, .3);
+    font-size: 1.2em;
+    color: white;
+}
+
+.circulo{
+    width:50px;
+    height: 50px;
+    margin: auto;
+    margin-top: 40px;
+    border: .2px solid white;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255, .3);
+}
+
+.triangulo{
+    margin-left: 15px;
+    margin-top: 10px;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 25px solid rgb(255, 255, 255);
+    border-right:15px solid transparent;    
+}
+
+.boton{
+    background-color:skyblue;
+    border-radius: 3px;
+    padding: 5px;
+    padding-left:10px ;
+    padding-right:10px ;
+    color: white;
+    text-decoration: none;
+    font-size: small;
+}
+
+.tours{
+    width: 1034px;
+    margin-top: 100px;
+    margin:auto;
+ }
+
+.toursh2{
+    font-weight: 100;
+    letter-spacing: 4px;
+}
+
+table{
+    margin: auto;
+    padding-bottom: 20px;
+    color: gray;
+}
+
+th , td{
+    padding: 10px 50px 10px 10px;  
+    text-align: left;
+    border-bottom: 1px solid rgb(153, 151, 151);
+}
+
+.bordetabla{
+    border-bottom: 1px solid transparent;
+}
+
+footer{
+    width: 1034px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+
+h2{
+    font-weight: 100;
+}
+.logo img{
+height: 25px;
+width: 25px;
+padding: 25px;
+}
